@@ -23,5 +23,5 @@ Images to be added...
 
 ## Contribution and License
 
-This was my solo project, and it will continue to do so.
+This was my solo project, and it will continue to do so.  
 My plan is to continue adding features, but no longer will I be using JavaFX. Instead I will rewrite it in another language (probably python) and continue writing then.
